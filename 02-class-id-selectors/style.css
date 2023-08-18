@@ -1,0 +1,22 @@
+.odd-num {
+    background-color: #ff000050;
+    font-family: "Verdana", "DeJavu", sans-serif;
+}
+
+.odd-num.unique {
+    font-size: 24px;
+}
+
+#num-2 {
+    color: #0000ff;
+    font-size: 36px;
+    font-family: "Verdana", "DeJavu", sans-serif;
+}
+
+#num-4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: "Verdana", "DeJavu", sans-serif;
+
+}
