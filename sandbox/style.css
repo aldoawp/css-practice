@@ -1,0 +1,15 @@
+#parent {
+    background-color: lightcoral;
+}
+
+.child {
+    color: white;
+}
+
+.alert {
+    background-color: blue;
+}
+
+.warning {
+    background-color: cyan;
+}
